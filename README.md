@@ -1,4 +1,4 @@
-# Arduboy Game Studio
+# Arduboy Game Studio - Final Year Group Project
 
 ![Arduboy Game Studio](ide-1.png)
 
